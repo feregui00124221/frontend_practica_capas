@@ -1,0 +1,19 @@
+{
+  "name": "sed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Remontando-Seguridad/remontandosed-frontend.git"
+  },
+  "author": "FERNANDO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Remontando-Seguridad/remontandosed-frontend/issues"
+  },
+  "homepage": "https://github.com/Remontando-Seguridad/remontandosed-frontend#readme"
+}
